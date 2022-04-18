@@ -1,6 +1,6 @@
 # Sus Image Bot
-This bot is a example for using canvas to make a sus image.
-![](https://cdn.discordapp.com/attachments/885884843374809118/965735161452974120/sus.png)
+This bot is a example for using canvas to make a sus image.<br>
+![](https://cdn.discordapp.com/attachments/885884843374809118/965735161452974120/sus.png)<br>
 
 Time: [![wakatime](https://wakatime.com/badge/user/6dcad35f-5e14-44f1-8e50-62062cfd7011/project/1e761a71-9bd9-4f0c-b9db-34c9c1dda71f.svg)](https://wakatime.com/@Funty) *yes i'm new to canvas*  
 Language: JavaScript/Node.js
@@ -9,7 +9,7 @@ Language: JavaScript/Node.js
 Install the used node modules with `npm i canvas discord.js`
 
 ## function arguments:
-ALL arguments except the [imageURL](#imageURL) are optional but they can personalize the result!<br><br>
+All arguments except the [imageURL](#imageURL) are optional but they can personalize the result!<br><br>
 
 Example:  
 ```js
