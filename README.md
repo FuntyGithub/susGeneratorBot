@@ -34,3 +34,7 @@ const image = await createSusImage(message.author.displayAvatarURL({format: 'png
 | ---------- | ------ | -------------------------------------------- | ------------------------------------- |
 | x          | Number | the width of the image, specified in pixels  | 128                                   |
 | y          | Number | the height of the image, specified in pixels | 71                                    |
+
+
+## ToDo:
+* ~maybe~ a npm module <-- WIP
