@@ -19,6 +19,7 @@ const image = await createSusImage(message.author.displayAvatarURL({format: 'png
 [function arguments:](#function-arguments)
   * [imageURL](#imageURL)
   * [size](#size)
+  * [bgColor](#bgColor)
 
 ### <ins>imageURL</ins>
 **Name:** imageURL<br>
@@ -35,6 +36,11 @@ const image = await createSusImage(message.author.displayAvatarURL({format: 'png
 | x          | Number | the width of the image, specified in pixels  | 128                                   |
 | y          | Number | the height of the image, specified in pixels | 71                                    |
 
+### <ins>bgColor</ins>
+**Name:** bgColor <br>
+**Type:** String<br>
+**Description:** The background color of the image.<br>
+**Default:** ``#000000`` (that means transparent)
 
 ## ToDo:
 * ~maybe~ a npm module <-- WIP
