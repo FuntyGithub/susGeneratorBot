@@ -41,6 +41,3 @@ const image = await createSusImage(message.author.displayAvatarURL({format: 'png
 **Type:** String<br>
 **Description:** The background color of the image.<br>
 **Default:** ``#000000`` (that means transparent)
-
-## ToDo:
-* ~maybe~ a npm module <-- WIP
